@@ -24,6 +24,7 @@
 
 #include "timesync.h"
 
+#include <cstdio>
 #include <stdint.h>
 #include <string.h>
 #include <thread>
