@@ -37,7 +37,7 @@ Please refer to the following link for colcon installation：
 
 1. Get livox_ross_driver from GitHub :
 
-   `git clone https://github.com/Livox-SDK/livox_ros2_driver.git ws_livox/src`
+   `git clone https://github.com/ivvi333/livox_ros2_driver.git ws_livox/src`
 
 ***Note :***
 
